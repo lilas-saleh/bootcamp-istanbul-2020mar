@@ -28,4 +28,4 @@ function func(constFirst) {
       
         console.log(sum2);
       }
-      adding(2,3)
+adding(2,3);

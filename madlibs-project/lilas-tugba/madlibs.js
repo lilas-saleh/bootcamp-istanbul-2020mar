@@ -65,8 +65,6 @@ function parseStory(rawStory) {
     }
     function newArray(theWord,pos){
       let newObj = {};
-      //Tugba: I changed this
-      //newObj [theWord] = pos; 
       newObj["word"]= theWord
       if (pos) {
         newObj["pos"]= pos
